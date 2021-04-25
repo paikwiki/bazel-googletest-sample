@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+temp
+bazel-bazel-googletest-sample
+bazel-bin
+bazel-out
+bazel-testlogs
+
